@@ -37,13 +37,4 @@
 - OVPN SSL/TCP 1194
 - SLOWDNS 5300
 ```
-### Author
-```
-```
-Auto - FT - Tunnel :
 
-<a href="https://t.me/supra_store31" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
-```
-```
-``
-```
