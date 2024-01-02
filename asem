@@ -1,0 +1,7 @@
+
+REPO="https://raw.githubusercontent.com/dalifajr/vpnxray/main"
+
+
+
+wget -q -O /etc/default/dropbear "${REPO}limit/dropbear.conf"
+chmod +x /etc/default/dropbear
