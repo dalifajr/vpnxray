@@ -35,9 +35,9 @@ clear;clear;clear
 
   # // Banner
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "  Welcome To NusantaraTunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
+echo -e "  Welcome To Kentot Tunneling ${YELLOW}(${NC}${green} Stable Edition ${NC}${YELLOW})${NC}"
 echo -e " This Will Quick Setup VPN Server On Your Server"
-echo -e "  Auther : ${green}Supra Store® ${NC}${YELLOW}(${NC} ${green} Supra Store${NC}${YELLOW})${NC}"
+echo -e "  Auther : ${green}M dzulfikri alifajri ${NC}${YELLOW}(${NC} ${green} KENTOT TUNNELING${NC}${YELLOW})${NC}"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 2
